@@ -1,1 +1,1 @@
-# Thiis is an About me page.
+# This is an About me page.
